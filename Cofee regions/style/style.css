@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-color: whitesmoke;
+    font-family: 'Releway', sans-serif;
+}
+
+.header{
+    height: 400px;
+    text-align: center;
+    background-image: url("../style/images/coffee-bgnd.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    font-size: 100px;
+    font-family: 'Covered By Your Grace', cursive;
+    color:rgb(3, 150, 100);
+    margin: 0;
+    padding-top: 18vh;
+}
+
+
